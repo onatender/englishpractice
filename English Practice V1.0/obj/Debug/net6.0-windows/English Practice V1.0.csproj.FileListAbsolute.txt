@@ -1,0 +1,40 @@
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.exe
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.deps.json
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.runtimeconfig.json
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.dll
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.pdb
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.csproj.AssemblyReference.cache
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English_Practice_V1._0.Form1.resources
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.csproj.GenerateResource.cache
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.AssemblyInfoInputs.cache
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.AssemblyInfo.cs
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.csproj.CoreCompileInputs.cache
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.dll
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\refint\English Practice V1.0.dll
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.pdb
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.genruntimeconfig.cache
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\ref\English Practice V1.0.dll
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English_Practice_V1._0.Properties.Resources.resources
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English_Practice_V1._0.wordForm.resources
+C:\Users\ONAT\source\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English_Practice_V1._0.removeForm.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.exe
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.csproj.AssemblyReference.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English_Practice_V1._0.Form1.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English_Practice_V1._0.Properties.Resources.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English_Practice_V1._0.removeForm.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English_Practice_V1._0.wordForm.resources
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.csproj.GenerateResource.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.AssemblyInfoInputs.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.AssemblyInfo.cs
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.dll
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\refint\English Practice V1.0.dll
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.pdb
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.deps.json
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.runtimeconfig.json
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.dll
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\bin\Debug\net6.0-windows\English Practice V1.0.pdb
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\English Practice V1.0.genruntimeconfig.cache
+D:\Bilgisayar Mühendisliği\Yazılım\C#\repos\English Practice V1.0\English Practice V1.0\obj\Debug\net6.0-windows\ref\English Practice V1.0.dll
