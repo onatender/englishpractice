@@ -1,3 +1,5 @@
+#English Practice
+
 Bu program C# Form Application vasıtasıyla oluşturulmuş olup;
 yeni öğrendiğiniz kelimeleri kaydedip daha sonra kütüphaneye kaydedilen kelimeleri rastgele bir şekilde size sorarak bunları pekiştirmenize yarar.
 
